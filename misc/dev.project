@@ -1,0 +1,7 @@
+with-compiler: ghc-9.12.2
+
+package hedgehog-utils
+  flags: +doctest +isDev
+
+tests: True
+test-show-details: direct
