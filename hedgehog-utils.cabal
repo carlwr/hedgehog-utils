@@ -43,7 +43,7 @@ flag isDev
 common dep_base       { build-depends: base             >= 4.19.2   && < 5   }
 common dep_containers { build-depends: containers       >= 0.7      && < 0.8 }
 common dep_hh         { build-depends: hedgehog         >= 1.5      && < 1.8 }
-common dep_deepseq    { build-depends: deepseq          >= 1.5.0  && < 1.6 }
+common dep_deepseq    { build-depends: deepseq          >= 1.5.0    && < 1.6 }
 
 -- test components:
 
