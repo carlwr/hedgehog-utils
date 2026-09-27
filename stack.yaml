@@ -1,4 +1,4 @@
-snapshot: lts-24.32
+snapshot: lts-24.60
 extra-deps:
 - hspec-tidy-formatter-0.2.0.1
 - effable-0.3.1.1
